@@ -1,24 +1,20 @@
 ## Welcome to SolidCash
 
-Changes the world
+####  Changes the world
 
-You can use the [editor on SolidCash](dedanochieng254@gmail.com) to maintain and preview the content for your website in Markdown files.
+ [SolidCash] is here to solve your financial issues immediately.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It is a legit Online business brought to you by friendly partners who care about your pockets.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Cash
 ## M-pesa
 ### Bank Account
 
-- Referral list
-- Cash made
+[Referral list]
+[Cash made]
+
+[Register]
 
 1. Numbered
 2. List
@@ -36,6 +32,6 @@ All are always welcome to enjoy our legit services worldwide.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](dedanochieng254@gmail.com)/ +254746149291.
+Having trouble with loving in? Please contact us [+254746149291].
 
 .
