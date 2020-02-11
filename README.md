@@ -1,0 +1,2 @@
+# solidcash
+Change the world
